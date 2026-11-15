@@ -16,7 +16,7 @@ A projekt a következő 3 fő fájlból áll a követelményeknek megfelelően:
 - **Intelligens gombvédelem**: Ha a forrás és a cél mértékegység megegyezik, a "Convert" gomb automatikusan inaktívvá (szürkévé) válik, megakadályozva a felesleges műveleteket.
 - **Előzmények kezelése**: 
   - Kijelölt elem egyedi törlése (*Delete*).
-  - *"Ne kérdezze meg újra"* opció (Checkbox), amellyel a megerősítés átugorható a futási idő alatt.
+  - *"Ne kérdezze meg újra"* opció (*Checkbox*), amellyel a megerősítés átugorható a futási idő alatt.
   - Teljes előzménytörténet törlése megerősítő ablakkal (*Clear All*).
 
 ## Rendszerkövetelmények
