@@ -7,7 +7,7 @@ Interaktív, grafikus felületen alapuló okos mértékegység- és valutaátvá
 A projekt a következő 3 fő fájlból áll a követelményeknek megfelelően:
 1. **`main.py`**: A grafikus felhasználói felület (`tkinter`), az eseménykezelők, a bemenetellenőrzés és a dinamikus gombállapot-kezelés logikája.
 2. **`sajat_modul_szm.py`**: A saját modul és osztály (`SzMUnitConverter`), amely az átváltási logikát (hosszúság, tömeg, hőmérséklet, valuta), a JSON alapú előzménymentést (max 20 elem) és a törlési funkciókat valósítja meg.
-3. **`README.md`**: A projekt hivatalos dokumentációja.
+3. **`README.md`**: A projekt dokumentációja.
 
 ## Főbb funkciók és extrák
 
